@@ -1,0 +1,7 @@
+{
+  "ConnectionStrings": {
+    "CompanyDatabase": "Server=localhost;Database=Companies;Trusted_Connection=True;"
+  }
+}
+
+
